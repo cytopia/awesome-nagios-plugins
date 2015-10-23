@@ -10,6 +10,11 @@
 
 This nagios plugin will test if php is configured correctly.
 
+### [![Type](https://img.shields.io/badge/type-%2Fbin%2Fsh-red.svg)](https://en.wikipedia.org/?title=Bourne_shell) [![Build Status](https://travis-ci.org/cytopia/check_drupal.svg?branch=master)](https://travis-ci.org/cytopia/check_drupal) [check_drupal](https://github.com/cytopia/check_drupal)
+
+This nagios plugin will check if drupal is configured correctly.
+
+
 ## Contribute
 
 Contributions are always welcome!
