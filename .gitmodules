@@ -1,0 +1,9 @@
+[submodule "check_php"]
+	path = check_php
+	url = https://github.com/cytopia/check_php
+[submodule "check_drupal"]
+	path = check_drupal
+	url = https://github.com/cytopia/check_drupal
+[submodule "check_mysqldump-secure"]
+	path = check_mysqldump-secure
+	url = https://github.com/cytopia/check_mysqldump-secure
