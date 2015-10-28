@@ -4,7 +4,7 @@
 
 > A curated list of awesome nagios plugins.
 
-## Nagios Plugins
+## Awesome Nagios Plugins
 
 ### [check_drupal](https://github.com/cytopia/check_drupal)
 [![Latest Stable Version](https://poser.pugx.org/cytopia/check_drupal/v/stable)](https://packagist.org/packages/cytopia/check_drupal) [![Build Status](https://travis-ci.org/cytopia/check_drupal.svg?branch=master)](https://travis-ci.org/cytopia/check_drupal) [![Type](https://img.shields.io/badge/type-%2Fbin%2Fsh-red.svg)](https://en.wikipedia.org/?title=Bourne_shell)
