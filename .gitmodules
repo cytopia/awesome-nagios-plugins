@@ -7,3 +7,6 @@
 [submodule "check_mysqldump-secure"]
 	path = check_mysqldump-secure
 	url = https://github.com/cytopia/check_mysqldump-secure
+[submodule "check_http_expect"]
+	path = check_http_expect
+	url = https://github.com/cytopia/check_http_expect.git
