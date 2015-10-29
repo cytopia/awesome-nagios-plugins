@@ -24,7 +24,7 @@ Nagios Plugin to monitor the state of [mysqldump-secure](https://github.com/cyto
 ### [check_php](https://github.com/cytopia/check_php)
 [![Latest Stable Version](https://poser.pugx.org/cytopia/check_php/v/stable)](https://packagist.org/packages/cytopia/check_php) [![Build Status](https://travis-ci.org/cytopia/check_php.svg?branch=master)](https://travis-ci.org/cytopia/check_php) [![Type](https://img.shields.io/badge/type-%2Fbin%2Fsh-red.svg)](https://en.wikipedia.org/?title=Bourne_shell)
 
-This nagios plugin will test if php is configured correctly.
+This nagios plugin will test if php is configured the way you wanted it to be: It can check against PHP startup errors, compiled PHP modules, configuration directives in php.ini and also against minor and major PHP updates in real-time.
 
 
 
