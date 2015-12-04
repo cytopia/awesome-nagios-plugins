@@ -3,8 +3,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome nagios plugins.
+>
+> Each of the plugins listed here is included inside this repository as a submodule, linking to the original author. Click on the plugin headline to go to the original github page with a more detailed description.
 
-## Nagios Plugins
+## Awesome Nagios Plugins
 
 ### [check_drupal](https://github.com/cytopia/check_drupal)
 [![Latest Stable Version](https://poser.pugx.org/cytopia/check_drupal/v/stable)](https://packagist.org/packages/cytopia/check_drupal) [![Build Status](https://travis-ci.org/cytopia/check_drupal.svg?branch=master)](https://travis-ci.org/cytopia/check_drupal) [![Type](https://img.shields.io/badge/type-%2Fbin%2Fsh-red.svg)](https://en.wikipedia.org/?title=Bourne_shell)
@@ -24,7 +26,7 @@ Nagios Plugin to monitor the state of [mysqldump-secure](https://github.com/cyto
 ### [check_php](https://github.com/cytopia/check_php)
 [![Latest Stable Version](https://poser.pugx.org/cytopia/check_php/v/stable)](https://packagist.org/packages/cytopia/check_php) [![Build Status](https://travis-ci.org/cytopia/check_php.svg?branch=master)](https://travis-ci.org/cytopia/check_php) [![Type](https://img.shields.io/badge/type-%2Fbin%2Fsh-red.svg)](https://en.wikipedia.org/?title=Bourne_shell)
 
-This nagios plugin will test if php is configured correctly.
+This nagios plugin will test if php is configured the way you wanted it to be: It can check against PHP startup errors, compiled PHP modules, configuration directives in php.ini and also against minor and major PHP updates in real-time.
 
 
 
