@@ -7,3 +7,5 @@ git pull --recurse-submodules
 # To checkout proper commits in your submodules you should update them after pulling using
 git submodule update --recursive
 
+# Pull all submodules
+git submodule foreach git pull origin master
