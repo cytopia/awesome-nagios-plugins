@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-## General guidelines
+## 1.General guidelines
 
 Please ensure your pull request adheres to the following guidelines:
 
@@ -13,29 +13,29 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
-## Adding
+## 2. Adding
 
-### With submodule
+### 2.1 With submodule
 
-#### 1. Fork this repository
+#### 2.1.1 Fork this repository
 
-#### 2. Add your repository as sub-repository to this project
+#### 2.1.2 Add your repository as sub-repository to this project
 
 ```bash
 git submodule add https://github.com/<USER>/<REPO>
 ```
 
-#### 3. Edit README.md
+#### 2.1.3 Edit README.md
 Add information about your repository to [README.md](README.md)
 
-#### 4. Create Pull Request
+#### 2.1.4 Create Pull Request
 
-### Without submodule
+### 2.2 Without submodule
 
-#### 1. Fork this repository
+#### 2.2.1. Fork this repository
 
-#### 2. Edit README.md
+#### 2.2.2 Edit README.md
 Add information about your repository to [README.md](README.md)
 
-#### 3. Create Pull Request
+#### 2.2.3 Create Pull Request
 
