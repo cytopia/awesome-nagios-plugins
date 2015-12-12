@@ -1,15 +1,18 @@
 # Contributing Guidelines
 
-## 1. Fork this repository
+## 1.General guidelines
 
-## 2. Add your repository as sub-repository to this project
+Please ensure your pull request adheres to the following guidelines:
 
-```bash
-git submodule add https://github.com/<USER>/<REPO>
-```
+* Search previous suggestions before making a new one, as yours may be a duplicate.
+* Make an individual pull request for each suggestion.
+* Sort alphabetically
+* Check your spelling and grammar.
+* Make sure your text editor is set to remove trailing whitespace.
+* The pull request and commit should have a useful title.
 
-## 3. Edit README.md
-Add information about your repository to [README.md](README.md)
+Thank you for your suggestions!
 
-## 4. Create Pull Request
+## 2. Adding
 
+You can either add the submodule directly to this repository if you wish or just edit the [README](README.md) 
