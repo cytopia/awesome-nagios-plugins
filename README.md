@@ -13,6 +13,11 @@
 
 This nagios plugin will check if your drupal site has issues (security updates, updates[optional], outstanding db updates, other problems).
 
+### [check_git](https://github.com/cytopia/check_git)
+[![Latest Stable Version](https://poser.pugx.org/cytopia/check_git/v/stable)](https://packagist.org/packages/cytopia/check_git) [![Build Status](https://travis-ci.org/cytopia/check_git.svg?branch=master)](https://travis-ci.org/cytopia/check_git) [![Type](https://img.shields.io/badge/type-%2Fbin%2Fsh-red.svg)](https://en.wikipedia.org/?title=Bourne_shell)
+
+This nagios plugin will check if your git repository is clean (with or without submodules), on a branch, tag or commit, in synch with remote (with or without submodules) and also verify gpg commits.
+
 ### [check_http_expect](https://github.com/cytopia/check_http_expect)
 [![Latest Stable Version](https://poser.pugx.org/cytopia/check_http_expect/v/stable)](https://packagist.org/packages/cytopia/check_http_expect) [![Build Status](https://travis-ci.org/cytopia/check_http_expect.svg?branch=master)](https://travis-ci.org/cytopia/check_http_expect) [![Type](https://img.shields.io/badge/type-%2Fbin%2Fsh-red.svg)](https://en.wikipedia.org/?title=Bourne_shell)
 
