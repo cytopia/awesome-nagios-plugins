@@ -4,6 +4,15 @@
 
 ---
 
+## Installation
+
+```
+$ git clone https://github.com/cytopia/awesome-nagios-plugins
+$ cd awesome-nagios-plugins
+$ git submodule init
+$ git submodule update --recursive
+```
+
 ## Awesome Nagios Plugins
 
 ### [check_drupal](https://github.com/cytopia/check_drupal)
