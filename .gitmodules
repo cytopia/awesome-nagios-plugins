@@ -10,3 +10,6 @@
 [submodule "check_http_expect"]
 	path = check_http_expect
 	url = https://github.com/cytopia/check_http_expect.git
+[submodule "check_git"]
+	path = check_git
+	url = https://github.com/cytopia/check_git
