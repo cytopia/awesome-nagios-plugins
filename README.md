@@ -4,12 +4,6 @@
 
 ---
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-> A curated list of awesome nagios plugins.
->
-> Each of the plugins listed here is included inside this repository as a submodule, linking to the original author. Click on the plugin headline to go to the original github page with a more detailed description.
-
 ## Awesome Nagios Plugins
 
 ### [check_drupal](https://github.com/cytopia/check_drupal)
@@ -43,6 +37,13 @@ This nagios plugin will test if php is configured the way you wanted it to be: I
 
 Contributions are always welcome!
 Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## Awesome
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A curated list of awesome nagios plugins.
+
 
 
 ## License
