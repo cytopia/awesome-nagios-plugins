@@ -11,6 +11,9 @@ $ git clone https://github.com/cytopia/awesome-nagios-plugins
 $ cd awesome-nagios-plugins
 $ git submodule init
 $ git submodule update --recursive
+
+# Symlink all plugins to your nagios/icinga plugin dir
+$ find . -name check_\* -type f -exec ln -s "$(pwd)/{}" /usr/local/nagios/libexec/ \;
 ```
 
 ## Awesome Nagios Plugins
