@@ -6,7 +6,7 @@
 
 ## Installation
 
-```
+```shell
 $ git clone https://github.com/cytopia/awesome-nagios-plugins
 $ cd awesome-nagios-plugins
 $ git submodule init
