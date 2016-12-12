@@ -4,8 +4,9 @@
 
 ---
 
-## Installation
+## Installation / Updates
 
+**Installation**
 ```shell
 $ git clone https://github.com/cytopia/awesome-nagios-plugins
 $ cd awesome-nagios-plugins
@@ -14,6 +15,12 @@ $ git submodule update --recursive
 
 # Symlink all plugins to your nagios/icinga plugin dir
 $ find . -name check_\* -type f -exec ln -s "$(pwd)/{}" /usr/local/nagios/libexec/ \;
+```
+
+**Update**
+```shell
+$ git pull
+$ git submodule update
 ```
 
 ## Awesome Nagios Plugins
